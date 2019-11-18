@@ -1,0 +1,20 @@
+.All{
+    text-align: left;
+    margin-left: 20px;
+}
+.picture{
+    display: flex;
+}
+.picture div{
+    position: relative;
+    margin: 10px 20px;
+}
+.picture input{
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.picture img{
+    width: 100px;
+    height: 100px;
+}
